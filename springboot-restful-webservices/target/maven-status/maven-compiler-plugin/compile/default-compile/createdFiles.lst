@@ -1,0 +1,6 @@
+com\practice\springboot\repository\UserRepository.class
+com\practice\springboot\service\impl\UserServiceImpl.class
+com\practice\springboot\SpringbootRestfulWebservicesApplication.class
+com\practice\springboot\contoller\UserController.class
+com\practice\springboot\service\UserService.class
+com\practice\springboot\entity\User.class
